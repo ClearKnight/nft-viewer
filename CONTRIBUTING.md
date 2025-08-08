@@ -6,7 +6,7 @@
 
 1. 克隆项目
 ```bash
-git clone https://github.com/your-username/nft-viewer.git
+git clone https://github.com/ClearKnight/nft-viewer.git
 cd nft-viewer
 ```
 
